@@ -1,0 +1,28 @@
+PROJE EKÝBÝ
+-----------------
+ENES KILIÇ 16010501004
+OSMAN EREN APAYDIN 16010501030
+CEM YILMAZ 16010501070
+
+
+Açýklama: Program veritabanýný Sql Server 2012 programýna eklerken 2 yöntem kullanabilirsiniz. Mantýklý ve usule göre 1.yöntem uygundur fakat her bilgisayarýn iþletim sistemi ve bit sayýsý (32 ve 64) farklý olduðu için 2.yöntem ile yüklemenizi tavsiye ederim çünkü bu sorunla çok karþýlaþtým.
+
+1.yöntem: Veritabanýmýzýn yedeðini yani .bak dosyasýný restore ederek eklemek ayrýntýlý olarak yazmýyorum bildiðinizi düþünerek zaten pek ayrýntýsý yok
+
+2.yöntem: Bu yöntemi tavsiye ederim garanti sorunsuz bir yöntem olduðu düþünüyorum. Veritabanýnýn mdf dosyasýný ve gerekli olmasada yinede log dosyasýný gönderiyorum Attacth yöntemi ile eklebilirsiniz. Buda yine restore ile ayný basitlikte bir iþlem
+
+
+Not1:Projeyi Visual Studio 2015'in belgelerimdeki projelerin bulunduðu konuma atýp çalýþtýrmanýz gerekiyor.
+
+Not2: Bu sadece algoritma projesi için yapýlmýþtýr vyts projesi ayrý olarak gönderilmiþtir.
+
+Not3: Programý kapatýp tekrar açtðýnýzda kullanýcý adý þifre girdiðinizde telefon no þifre yanlýþ diyebilir. Pc yeniden baþlattýðýnýzda sorun düzelicektir. Çünkü Program kapatýlsa bile veritabaný ile baðlantýsý sürüyor arkaplanda açýk gibi biþey bunu anlamak için programý sildiðinizde silemiyorsunuz açýk diyor.
+
+Son olarak:Projeyi siz yazmadýðýnýz için anlamadýðýnýz yada küçük bir ihtimalde olsa programý test ettik ama sýkýntý çýkarsa yada veritabanýný Sql server 2012'ye ekleyemesseniz bize bildirmeniz halinde hemen geri dönüþ yaparýz..
+
+Ekipçe teþekkür ederiz...
+
+2fa4e7
+
+
+
