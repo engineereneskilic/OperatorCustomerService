@@ -1,6 +1,8 @@
 Project Presentation Video: https://drive.google.com/file/d/1wqjpr9IMUXNmj3Chhk_p2Zjoelvkj9pf/view?usp=sharing    
 Note: If it does not open directly, first download it and then open it from the computer
 
+![**Operator Customer Service (Image)**](eco-musteri-hizmetleri.JPG)  
+
 # Operator Customer Service (C# Console Application)
 
 ## Table of Contents
